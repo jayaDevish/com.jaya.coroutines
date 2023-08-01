@@ -1,0 +1,1 @@
+# MindOrks-Course-NewsApp
